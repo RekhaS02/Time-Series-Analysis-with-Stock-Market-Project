@@ -50,7 +50,7 @@ Trained for 10 epochs.
 # RMSE Comparison Plot
 A bar chart compares RMSE scores for all models. Each bar is annotated with the actual RMSE value.
 
-▶️ How to Run
+# How to Run
 1. Clone this repo:
 
 git clone https://github.com/your-username/nifty50-forecasting.git
