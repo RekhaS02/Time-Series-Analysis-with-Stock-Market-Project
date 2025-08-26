@@ -53,8 +53,8 @@ A bar chart compares RMSE scores for all models. Each bar is annotated with the 
 # How to Run
 1. Clone this repo:
 
-git clone https://github.com/your-username/nifty50-forecasting.git
-cd nifty50-forecasting
+git clone https://github.com/RekhaS02/Time-Series-Analysis-with-Stock-Market-Project.git
+cd Time-Series-Analysis-with-Stock-Market-Project
 
 2. Install dependencies:
 
